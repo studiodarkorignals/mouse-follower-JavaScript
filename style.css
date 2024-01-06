@@ -4,6 +4,7 @@
     box-sizing: border-box;
     font-family: "montserrat";
     color: white;
+    overflow: hidden;
 }
 html,body{
     width: 100vw;
